@@ -1,0 +1,72 @@
+{
+  "chiquita": {
+    "nombre_usuario": "chiquita",
+    "nombre": "Chiquita",
+    "apellido": "Gonmez",
+    "email": "ghjk@gmail.com",
+    "password": "chiquita11"
+  },
+  "ignacio": {
+    "nombre_usuario": "ignacio",
+    "nombre": "Ignacio",
+    "apellido": "Fdksjfsd",
+    "email": "j@gmail.com",
+    "password": "ignacio1"
+  },
+  "maruca": {
+    "nombre_usuario": "maruca",
+    "nombre": "Maria",
+    "apellido": "Salcedo",
+    "email": "i@gmail.com",
+    "password": "maria11"
+  },
+  "iggyto": {
+    "nombre_usuario": "iggyto",
+    "nombre": "Skjdhklsa",
+    "apellido": "Dsfhkdsjf",
+    "email": "sd@gmail.com",
+    "password": "panela1"
+  },
+  "maruquita": {
+    "nombre_usuario": "maruquita",
+    "nombre": "Maria",
+    "apellido": "Fjksldf",
+    "email": "sdsa@gmail.com",
+    "password": "maria11"
+  },
+  "milanesa": {
+    "nombre_usuario": "milanesa",
+    "nombre": "Mila",
+    "apellido": "Sada",
+    "email": "m@gmail.com",
+    "password": "panela1"
+  },
+  "panela": {
+    "nombre_usuario": "panela",
+    "nombre": "Panela",
+    "apellido": "Sda",
+    "email": "sda@gmail.com",
+    "password": "panela1"
+  },
+  "blablabla": {
+    "nombre_usuario": "blablabla",
+    "nombre": "Askdjas",
+    "apellido": "Dfds",
+    "email": "jh@gmail.com",
+    "password": "hola111"
+  },
+  "Maria13": {
+    "nombre_usuario": "Maria13",
+    "nombre": "Maria",
+    "apellido": "Salcedo",
+    "email": "mariadsign@gmail.com",
+    "password": "panela10"
+  },
+  "gordita": {
+    "nombre_usuario": "gordita",
+    "nombre": "Maria",
+    "apellido": "Sdjkas",
+    "email": "aesfdaf@gmail.com",
+    "password": "gordi11"
+  }
+}

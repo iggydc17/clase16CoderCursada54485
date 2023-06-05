@@ -1,0 +1,232 @@
+[
+    {
+        "titulo": "El Gran Gatsby",
+        "autor": "F. Scott Fitzgerald",
+        "anio": "1925",
+        "genero": "Novela",
+        "id": "ISBN1234567890",
+        "precio": "19.99",
+        "numero_paginas": "218",
+        "cantidad": "27"
+    },
+    {
+        "titulo": "Cien anios de soledad",
+        "autor": "Gabriel Garcia Marquez",
+        "anio": "1967",
+        "genero": "Realismo magico",
+        "id": "ISBN0987654321",
+        "precio": "24.99",
+        "numero_paginas": "417",
+        "cantidad": "12"
+    },
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "anio": "1949",
+        "genero": "Ciencia ficcion",
+        "id": "ISBN5678901234",
+        "precio": "14.99",
+        "numero_paginas": "328",
+        "cantidad": "15"
+    },
+    {
+        "titulo": "Matar a un ruisenior",
+        "autor": "Harper Lee",
+        "anio": "1960",
+        "genero": "Novela",
+        "id": "ISBN5432109876",
+        "precio": "16.99",
+        "numero_paginas": "336",
+        "cantidad": "4"
+    },
+    {
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "anio": "1605",
+        "genero": "Clasico",
+        "id": "ISBN6789054321",
+        "precio": "21.99",
+        "numero_paginas": "992",
+        "cantidad": "28"
+    },
+    {
+        "titulo": "Ulises",
+        "autor": "James Joyce",
+        "anio": "1922",
+        "genero": "Ficcion",
+        "id": "ISBN3210987654",
+        "precio": "27.99",
+        "numero_paginas": "736",
+        "cantidad": "18"
+    },
+    {
+        "titulo": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "anio": "1813",
+        "genero": "Romance",
+        "id": "ISBN7654321098",
+        "precio": "18.99",
+        "numero_paginas": "432",
+        "cantidad": "25"
+    },
+    {
+        "titulo": "El senor de los anillos",
+        "autor": "J.R.R. Tolkien",
+        "anio": "1954",
+        "genero": "Fantasia",
+        "id": "ISBN2109876543",
+        "precio": "29.99",
+        "numero_paginas": "1178",
+        "cantidad": "2"
+    },
+    {
+        "titulo": "Cronica de una muerte anunciada",
+        "autor": "Gabriel Garcia Marquez",
+        "anio": "1981",
+        "genero": "Realismo magico",
+        "id": "ISBN4321098765",
+        "precio": "15.99",
+        "numero_paginas": "120",
+        "cantidad": "9"
+    },
+    {
+        "titulo": "En busca del tiempo perdido",
+        "autor": "Marcel Proust",
+        "anio": "1913",
+        "genero": "Ficcion",
+        "id": "ISBN6789054321",
+        "precio": "31.99",
+        "numero_paginas": "4215",
+        "cantidad": "20"
+    },
+    {
+        "titulo": "Moby-Dick",
+        "autor": "Herman Melville",
+        "anio": "1851",
+        "genero": "Aventura",
+        "id": "ISBN0987654321",
+        "precio": "23.99",
+        "numero_paginas": "704",
+        "cantidad": "13"
+    },
+    {
+        "titulo": "El retrato de Dorian Gray",
+        "autor": "Oscar Wilde",
+        "anio": "1890",
+        "genero": "Drama",
+        "id": "ISBN8765432109",
+        "precio": "17.99",
+        "numero_paginas": "254",
+        "cantidad": "7"
+    },
+    {
+        "titulo": "Los hermanos Karamazov",
+        "autor": "Fyodor Dostoevsky",
+        "anio": "1880",
+        "genero": "Filosofico",
+        "id": "ISBN5432109876",
+        "precio": "20.99",
+        "numero_paginas": "796",
+        "cantidad": "29"
+    },
+    {
+        "titulo": "Las aventuras de Huckleberry Finn",
+        "autor": "Mark Twain",
+        "anio": "1884",
+        "genero": "Aventura",
+        "id": "ISBN8765432109",
+        "precio": "16.99",
+        "numero_paginas": "366",
+        "cantidad": "23"
+    },
+    {
+        "titulo": "Crimen y castigo",
+        "autor": "Fyodor Dostoevsky",
+        "anio": "1866",
+        "genero": "Suspenso",
+        "id": "ISBN7654321098",
+        "precio": "19.99",
+        "numero_paginas": "574",
+        "cantidad": "6"
+    },
+    {
+        "titulo": "La Odisea",
+        "autor": "Homero",
+        "anio": "-700",
+        "genero": "Epico",
+        "id": "ISBN8765432109",
+        "precio": "21.99",
+        "numero_paginas": "384",
+        "cantidad": "10"
+    },
+    {
+        "titulo": "El Conde de Montecristo",
+        "autor": "Alexandre Dumas",
+        "anio": "1844",
+        "genero": "Aventura",
+        "id": "ISBN4321098765",
+        "precio": "22.99",
+        "numero_paginas": "1312",
+        "cantidad": "16"
+    },
+    {
+        "titulo": "La metamorfosis",
+        "autor": "Franz Kafka",
+        "anio": "1915",
+        "genero": "Fantasia",
+        "id": "ISBN2109876543",
+        "precio": "14.99",
+        "numero_paginas": "55",
+        "cantidad": "19"
+    },
+    {
+        "titulo": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "anio": "1813",
+        "genero": "Romance",
+        "id": "ISBN0987654321",
+        "precio": "18.99",
+        "numero_paginas": "432",
+        "cantidad": "3"
+    },
+    {
+        "titulo": "La guerra y la paz",
+        "autor": "Leo Tolstoy",
+        "anio": "1869",
+        "genero": "Historico",
+        "id": "ISBN3210987654",
+        "precio": "25.99",
+        "numero_paginas": "1225",
+        "cantidad": "1"
+    },
+    {
+        "titulo": "El viejo y el mar",
+        "autor": "Ernest Hemingway",
+        "anio": "1952",
+        "genero": "Novela",
+        "id": "ISBN5432109876",
+        "precio": "15.99",
+        "numero_paginas": "127",
+        "cantidad": "11"
+    },
+    {
+        "titulo": "En busca del tiempo perdido",
+        "autor": "Marcel Proust",
+        "anio": "1913",
+        "genero": "Novela",
+        "id": "ISBN3210987654",
+        "precio": "31.99",
+        "numero_paginas": "4215",
+        "cantidad": "30"
+    },
+    {
+        "titulo": "Harry Potter",
+        "autor": "J.K Rowlin",
+        "anio": "1997",
+        "genero": "fantasia",
+        "id": "ISBN2109876543",
+        "precio": "23.99",
+        "numero_paginas": "704",
+        "cantidad": "17"
+    }
+]
